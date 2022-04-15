@@ -1,0 +1,12 @@
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.csproj.AssemblyReference.cache
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.AssemblyInfoInputs.cache
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.AssemblyInfo.cs
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.csproj.CoreCompileInputs.cache
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\bin\Debug\net5.0\BookStoreEntites.deps.json
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\bin\Debug\net5.0\BookStoreEntites.dll
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\bin\Debug\net5.0\BookStoreEntites.pdb
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.dll
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\refint\BookStoreEntites.dll
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\BookStoreEntites.pdb
+C:\Users\mnf_4\source\repos\WepApiReactjs\BookStoreEntites\obj\Debug\net5.0\ref\BookStoreEntites.dll
